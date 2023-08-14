@@ -24,6 +24,7 @@ public class TypeCastingDemo {
 		
 		byte bone=90; //byte- 8 bits
 		char chone = (char)bone;// char- 2bytes
+		System.out.println(chone);
 	}
 
 }
