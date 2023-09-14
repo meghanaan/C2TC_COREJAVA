@@ -28,7 +28,7 @@ public class Customer {
 	//4. Method invoked using object reference(Manually); Constructor - automatically invoked at the time of object creation
 	//5. Types - Default and UserDefined constructor
 	//6. Default - no argument constructor
-	//7. Used Defined - no argument constructor and parameterised/argumented constructor
+	//7. User Defined - no argument constructor and parameterised/argumented constructor
 	
 	//Methods
 	public int getCustomerId() {
